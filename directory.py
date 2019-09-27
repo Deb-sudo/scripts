@@ -24,3 +24,4 @@ def crawl(url):
             crawl(link)
 
 crawl(target_url)
+
